@@ -60,7 +60,7 @@ function generateMarkdown(data) {
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [Contributors](#contributors)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
@@ -82,11 +82,17 @@ ${renderLicenseSection(data.license)}
 
 ## Contributing
 
-${data.contributors}
+${data.contributing}
 
 ## Tests
 
 ${data.tests}
+
+## Questions
+
+If you have any questions, reach me on Github: https://github.com/${data.username}
+
+or email me here at ${data.email}
 
 `;
 }

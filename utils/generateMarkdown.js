@@ -77,6 +77,10 @@ ${data.installation}
 
 ${data.usage}
 
+Here's a link to the walkthrough video that goes over the process flow of this application:
+
+https://watch.screencastify.com/v/Llfz6XNqzxFIe83clAsI
+
 ## License
 
 This application is covered under ${renderLicenseSection(data.license)} license.
